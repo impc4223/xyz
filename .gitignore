@@ -1,0 +1,12 @@
+/node_modules
+/yarn.lock
+
+/_cacache
+/_locks
+/_logs
+/anonymous-cli-metrics.json
+/hiii.pub
+/hiii.txt
+hii.py
+/hiii.pub
+/package.json
